@@ -44,16 +44,16 @@ Cole o prompt mestre no início de um chat específico para resolver um bug comp
 ├── 🤝 CONTRIBUTING.md      # Guia para evoluir o framework
 └── 📄 LICENSE              # Licença MIT
 
-🌟 Por que usar o A.P.A.S.?
+## 🌟 Por que usar o A.P.A.S.?
 Ao contrário de prompts comuns, o A.P.A.S. ataca os maiores gargalos do desenvolvimento assistido por IA:
 Antídoto contra Alucinação: O estágio PLAN obriga a IA a validar a lógica e restrições antes de gerar qualquer linha de código.
 Fim do "Código Espaguete": O estágio AGENT impõe padrões de Clean Code, SOLID e modularização rigorosa.
 Aprendizado Acelerado: O estágio STUDY transforma cada tarefa técnica em uma aula particular, elevando o nível do desenvolvedor humano.
-🤝 Contribua com a Comunidade
+## 🤝 Contribua com a Comunidade
 Este repositório é Open Source! Você pode ajudar a refinar o "cérebro" do A.P.A.S.
 Faça um Fork 🍴
 Crie sua Feature Branch (git checkout -b feat/NovoModulo)
 Faça o Commit das suas alterações (git commit -m 'Add: Novo Módulo de Segurança')
 Envie um Pull Request 🚀
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT - consulte o arquivo LICENSE para detalhes.
